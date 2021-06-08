@@ -1,20 +1,22 @@
-## Micronaut 2.5.5 Documentation
+# Desafio do Pix gRPC
 
-- [User Guide](https://docs.micronaut.io/2.5.5/guide/index.html)
-- [API Reference](https://docs.micronaut.io/2.5.5/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/2.5.5/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+## Setup do Projeto - Key-Manager gRPC
 
-## Feature jdbc-hikari documentation
+### Tag: v001
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+### Resultado Esperado
 
-## Feature testcontainers documentation
+Projeto gerado com as tecnologias sugeridas:
 
-- [https://www.testcontainers.org/](https://www.testcontainers.org/)
+- Kotlin
+- Micronaut e gRPC
+- Gradle
 
-## Feature http-client documentation
+ToDo:
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+- [x] Configuração das annotations do IntelliJ
+- [x] Configuração do banco de dados Postgres
+- [x] Arquivo docker-compose com os serviços externos <!--Adicionado à pasta DockerServicosExternos-->
+
+------
 
